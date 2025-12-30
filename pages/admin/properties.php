@@ -7,7 +7,7 @@ include __DIR__ . '/../../includes/header.php';
 ?>
 <div class="container">
   <h2>Admin: Properties</h2>
-  <a class="btn btn-primary" href="<?= url('pages/admin/property-create.php') ?>">+ Add Property</a>
+  <a class="btn btn-primary" href="<?= url('pages/property-create.php') ?>">+ Add Property</a>
 
   <div class="card" style="padding:12px; margin-top:12px;">
     <table style="width:100%; border-collapse:collapse;">
